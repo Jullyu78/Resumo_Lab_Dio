@@ -1,7 +1,7 @@
 # Resumo_Lab_Dio
 Resumo do lab na DIO.
 
-IaaS, PaaS e SaaS: Definição e Funcionamento 
+Tipos de Serviços em Nuvem: IaaS, PaaS e SaaS - Definição e Funcionamento.
 
 1. IaaS (Infrastructure as a Service) 
 - O que é: Serviço de infraestrutura em nuvem (servidores virtuais, redes, armazenamento).  
